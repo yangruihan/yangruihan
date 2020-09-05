@@ -1,4 +1,4 @@
-# Yang Ruihan's Github stats
+# Hi :)
 
 [![yangruihan's github stats](https://github-readme-stats.vercel.app/api?username=yangruihan&count_private=true&show_icons=true)](https://github.com/yangruihan/yangruihan)
 
